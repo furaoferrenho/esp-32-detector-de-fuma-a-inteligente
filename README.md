@@ -13,3 +13,9 @@
 
 - disponibilizar meu codigo ao publico
   
+#Guis
+
+  o detector de fumaça vem junto de algumas guis pre feitas como demonstração,
+  objetivamente primitivas dada a sua natureza.
+
+  
